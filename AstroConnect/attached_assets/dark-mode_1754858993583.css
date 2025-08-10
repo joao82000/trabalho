@@ -1,0 +1,54 @@
+body {
+    background-color: #121212;
+    color: #e0e0e0;
+}
+
+.info-panel {
+    background-color: #1e1e1e;
+    color: #e0e0e0;
+}
+
+.location-info,
+.calculator,
+.recommendations {
+    background-color: #2d2d2d;
+    color: #e0e0e0;
+}
+
+.data-card {
+    background-color: #0d47a1;
+}
+
+.result {
+    background-color: #1a237e;
+}
+
+.input-group input {
+    background-color: #333;
+    color: #e0e0e0;
+    border-color: #444;
+}
+
+#location-search {
+    background-color: #333;
+    color: #e0e0e0;
+}
+
+.leaflet-control-attribution {
+    background-color: rgba(30, 30, 30, 0.7) !important;
+    color: #e0e0e0 !important;
+}
+
+.leaflet-bar {
+    background-color: #2d2d2d !important;
+}
+
+.leaflet-bar a {
+    background-color: #2d2d2d !important;
+    color: #e0e0e0 !important;
+    border-bottom-color: #444 !important;
+}
+
+.leaflet-bar a:hover {
+    background-color: #3d3d3d !important;
+}
